@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hemanthrgh/ReactPokemomApi/static/css/main.e6f90995.css",
+    "main.js": "/Hemanthrgh/ReactPokemomApi/static/js/main.43580373.js",
+    "index.html": "/Hemanthrgh/ReactPokemomApi/index.html",
+    "main.e6f90995.css.map": "/Hemanthrgh/ReactPokemomApi/static/css/main.e6f90995.css.map",
+    "main.43580373.js.map": "/Hemanthrgh/ReactPokemomApi/static/js/main.43580373.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6f90995.css",
+    "static/js/main.43580373.js"
+  ]
+}
